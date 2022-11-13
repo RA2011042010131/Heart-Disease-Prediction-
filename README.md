@@ -1,2 +1,2 @@
 # Heart-Disease-Prediction-
-Heart Disease prediction using logistics regression .
+Heart Disease prediction using logistic regression .
